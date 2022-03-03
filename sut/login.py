@@ -10,8 +10,6 @@ import tempfile
 DATABASE_FILE = os.path.join(tempfile.gettempdir(),
                              'robotframework-quickstart-db.txt')
 
-print("TEST")
-
 
 class UserDataBase(object):
 
